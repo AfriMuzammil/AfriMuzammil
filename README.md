@@ -8,5 +8,5 @@
 🔗 [My LinkedIn](https://www.linkedin.com/in/afri-muzammil-4932881b3/)
 
 ## 📁 Featured Repositories
-- [Login Page Testing](https://github.com/yourusername/Login-Page-Testing)
-- [API Testing with Postman](https://github.com/yourusername/API-Testing-Postman)
+- [Login Page Testing]([https://github.com/yourusername/Login-Page-Testing](https://github.com/AfriMuzammil/Login-Page-Testing))
+  
